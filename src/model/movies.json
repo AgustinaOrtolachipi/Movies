@@ -6,7 +6,7 @@
       "year": 1994,
       "director": "Frank Darabont",
       "duration": 142,
-      "poster": "https://i.ebayimg.com/images/g/4goAAOSwMyBe7hnQ/s-l1200.webp",
+      "poster": "movie-app/public/imagenes/Shawanka.jpg",
       "genre": [
         "Drama"
       ],
@@ -18,7 +18,7 @@
       "year": 2008,
       "director": "Christopher Nolan",
       "duration": 152,
-      "poster": "https://i.ebayimg.com/images/g/yokAAOSw8w1YARbm/s-l1200.jpg",
+      "poster": "movie-app/public/imagenes/the dark night.jpg",
       "genre": [
         "Action",
         "Crime",
@@ -32,7 +32,7 @@
       "year": 2010,
       "director": "Christopher Nolan",
       "duration": 148,
-      "poster": "https://m.media-amazon.com/images/I/91Rc8cAmnAL._AC_UF1000,1000_QL80_.jpg",
+      "poster": "movie-app/public/imagenes/Inception.jpg",
       "genre": [
         "Action",
         "Adventure",
@@ -46,7 +46,7 @@
       "year": 1994,
       "director": "Quentin Tarantino",
       "duration": 154,
-      "poster": "https://www.themoviedb.org/t/p/original/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "poster": "movie-app/public/imagenes/Pull fiction.jpg",
       "genre": [
         "Crime",
         "Drama"
@@ -59,7 +59,7 @@
       "year": 1994,
       "director": "Robert Zemeckis",
       "duration": 142,
-      "poster": "https://i.ebayimg.com/images/g/qR8AAOSwkvRZzuMD/s-l1600.jpg",
+      "poster": "movie-app/public/imagenes/Forrest Gump.jpg",
       "genre": [
         "Drama",
         "Romance"
@@ -72,7 +72,7 @@
       "year": 2000,
       "director": "Ridley Scott",
       "duration": 155,
-      "poster": "https://img.fruugo.com/product/0/60/14417600_max.jpg",
+      "poster": "movie-app/public/imagenes/Gladiator.jpg",
       "genre": [
         "Action",
         "Adventure",
@@ -86,7 +86,7 @@
       "year": 1999,
       "director": "Lana Wachowski",
       "duration": 136,
-      "poster": "https://i.ebayimg.com/images/g/QFQAAOSwAQpfjaA6/s-l1200.jpg",
+      "poster": "movie-app/public/imagenes/Matrix.jpg",
       "genre": [
         "Action",
         "Sci-Fi"
@@ -99,7 +99,7 @@
       "year": 2014,
       "director": "Christopher Nolan",
       "duration": 169,
-      "poster": "https://m.media-amazon.com/images/I/91obuWzA3XL._AC_UF1000,1000_QL80_.jpg",
+      "poster": "movie-app/public/imagenes/Interstellar.jpg",
       "genre": [
         "Adventure",
         "Drama",
@@ -113,7 +113,7 @@
       "year": 2003,
       "director": "Peter Jackson",
       "duration": 201,
-      "poster": "https://i.ebayimg.com/images/g/0hoAAOSwe7peaMLW/s-l1600.jpg",
+      "poster": "movie-app/public/imagenes/The lords of the rings.jpg",
       "genre": [
         "Action",
         "Adventure",
@@ -127,7 +127,7 @@
       "year": 1994,
       "director": "Roger Allers, Rob Minkoff",
       "duration": 88,
-      "poster": "https://m.media-amazon.com/images/I/81BMmrwSFOL._AC_UF1000,1000_QL80_.jpg",
+      "poster": "movie-app/public/imagenes/The Lion King.jpg",
       "genre": [
         "Animation",
         "Adventure",
@@ -141,7 +141,7 @@
       "year": 2012,
       "director": "Joss Whedon",
       "duration": 143,
-      "poster": "https://img.fruugo.com/product/7/41/14532417_max.jpg",
+      "poster": "movie-app/public/imagenes/Avengers.jpg",
       "genre": [
         "Action",
         "Adventure",
@@ -155,7 +155,7 @@
       "year": 1993,
       "director": "Steven Spielberg",
       "duration": 127,
-      "poster": "https://vice-press.com/cdn/shop/products/Jurassic-Park-Editions-poster-florey.jpg?v=1654518755&width=1024",
+      "poster": "movie-app/public/imagenes/Jurassic Park.jpg",
       "genre": [
         "Adventure",
         "Sci-Fi"
@@ -168,7 +168,7 @@
       "year": 1997,
       "director": "James Cameron",
       "duration": 195,
-      "poster": "https://i.pinimg.com/originals/42/42/65/4242658e6f1b0d6322a4a93e0383108b.png",
+      "poster": "movie-app/public/imagenes/Titanic.jpg",
       "genre": [
         "Drama",
         "Romance"
@@ -181,7 +181,7 @@
       "year": 2010,
       "director": "David Fincher",
       "duration": 120,
-      "poster": "https://i.pinimg.com/originals/7e/37/b9/7e37b994b613e94cba64f307b1983e39.jpg",
+      "poster": "movie-app/public/imagenes/The social network.jpg",
       "genre": [
         "Biography",
         "Drama"
@@ -194,7 +194,7 @@
       "year": 2009,
       "director": "James Cameron",
       "duration": 162,
-      "poster": "https://i.etsystatic.com/35681979/r/il/dfe3ba/3957859451/il_fullxfull.3957859451_h27r.jpg",
+      "poster": "movie-app/public/imagenes/Avatar.jpg",
       "genre": [
         "Action",
         "Adventure",
@@ -208,7 +208,7 @@
       "year": 1988,
       "director": "John McTiernan",
       "duration": 132,
-      "poster": "https://m.media-amazon.com/images/I/51+Eu24eFQL._AC_SY300_SX300_.jpg",
+      "poster": "movie-app/public/imagenes/Die hard.jpg",
       "genre": [
         "Action",
         "Thriller"
@@ -220,8 +220,7 @@
       "title": "The Rear Window",
       "year": 1954,
       "director": "Alfred Hitchcock",
-      "duration": 112,
-      "poster": "https://m.media-amazon.com/images/I/81FA-25ugSL._AC_SL1500_.jpg",
+      "duration":"movie-app/public/imagenes/The rear window.jpg",
       "genre": [
         "Mystery",
         "Thriller"
@@ -234,7 +233,7 @@
       "year": 1979,
       "director": "Ridley Scott",
       "duration": 117,
-      "poster": "https://filmartgallery.com/cdn/shop/files/Alien-Vintage-Movie-Poster-Original-1-Sheet-27x41.jpg?v=1684645235",
+      "poster": "movie-app/public/imagenes/Alien.jpg",
       "genre": [
         "Horror",
         "Sci-Fi"
@@ -247,7 +246,7 @@
   "year": 2006,
   "director": "Christopher Nolan",
   "duration": 130,
-  "poster":  "https://i.pinimg.com/736x/4f/4d/fa/4f4dfabe5c46358c8d821bd2716e8186.jpg",
+  "poster":  "movie-app/public/imagenes/The prestige.jpg",
   "genre": [
   "Drama",
   "Mystery",
@@ -261,7 +260,7 @@
   "year": 1995,
   "director": "Bryan Singer",
   "duration": 106,
-  "poster": "https://image.tmdb.org/t/p/original/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg",
+  "poster": "movie-app/public/imagenes/The usual suspects.jpg",
   "genre": [
   "Crime",
   "Mystery",
@@ -275,7 +274,7 @@
   "year": 1995,
   "director": "David Fincher",
   "duration": 127,
-  "poster": "https://m.media-amazon.com/images/I/61MOBBZJkmL._AC_UF894,1000_QL80_.jpg",
+  "poster": "movie-app/public/imagenes/Seven.jpg",
   "genre": [
   "Crime",
   "Drama",
@@ -290,7 +289,7 @@
   "year": 1993,
   "director": "Steven Spielberg",
   "duration": 195,
-  "poster": "https://m.media-amazon.com/images/I/71vKAOMv8nL.jpg",
+  "poster": "movie-app/public/imagenes/Schindler's List.jpg",
   "genre": [
   "Biography",
   "Drama",
@@ -304,7 +303,7 @@
   "year": 2006,
   "director": "Martin Scorsese",
   "duration": 151,
-  "poster": "https://m.media-amazon.com/images/I/510gCMld+uL._AC_UF894,1000_QL80_.jpg",
+  "poster": "movie-app/public/imagenes/The departed.jpg",
   "genre": [
   "Crime",
   "Drama",

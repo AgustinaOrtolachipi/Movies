@@ -1,5 +1,7 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import MovieList from '../../src/MovieList';
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
           Learn React
         </a>
       </header>
+      <img src="/favicon.ico" alt="favicon" />
+      {/* Agrega cualquier otro contenido estático que necesites */}
     </div>
   );
 }
